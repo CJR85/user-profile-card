@@ -21,3 +21,27 @@
   z-index: 100;
   box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.3);
 }
+
+.info {
+  padding: 10px 50px;
+}
+
+.info h1 {
+  font-size: 80px;
+  font-weight: 500;
+}
+
+.info p {
+  line-height: 26px;
+}
+
+.info a {
+  background: #4f40ff;
+  color: #fff;
+  font-size: 15px;
+  text-decoration: none;
+  display: inline-block;
+  padding: 12px 40px;
+  border-radius: 30px;
+  margin-top: 20px;
+}
