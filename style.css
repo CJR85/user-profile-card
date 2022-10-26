@@ -45,3 +45,8 @@
   border-radius: 30px;
   margin-top: 20px;
 }
+
+.info span {
+  color: #4f40ff;
+  font-weight: 500;
+}
